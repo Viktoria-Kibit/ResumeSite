@@ -1,0 +1,13 @@
+body {
+    background: #1B1B25;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  *{
+      text-align: center;
+      margin-left: 2px;
+  }
+  p, h3, h4, h5{
+      text-align: left;
+  }
